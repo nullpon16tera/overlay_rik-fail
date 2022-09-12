@@ -2,6 +2,8 @@
 
 リュナンさんが改良している[Beat Saber Overlay 改良版](https://github.com/rynan4818/beat-saber-overlay)にFailの度に走っているRikさんが増殖する機能が追加されています。
 
+beat-saber-overlay-2022-04-25のバージョンで動作確認しています。
+
 
 ## インストール時に変更している箇所
 
