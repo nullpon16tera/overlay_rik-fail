@@ -1,6 +1,6 @@
 # Beat Saber Overlay 改良版に追加機能（Rik Fail）
 
-リュナンさんが改良している[Beat Saber Overlay 改良版](https://github.com/rynan4818/beat-saber-overlay)にFailの度にRikさんが増殖します。
+リュナンさんが改良している[Beat Saber Overlay 改良版](https://github.com/rynan4818/beat-saber-overlay)にFailの度に走っているRikさんが増殖する機能が追加されています。
 
 
 ## インストール時に変更している箇所
